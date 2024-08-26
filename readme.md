@@ -6,7 +6,6 @@ Este script automatiza a instalação e configuração de ferramentas de desenvo
 - Git
 - Docker
 - SDKMAN
-- Bitwarden
 - Google Chrome
 - Insomnia
 
