@@ -1,6 +1,6 @@
 # pop-os-postinstall
 
-Este script automatiza a instalação e configuração de ferramentas essenciais no Pop!_OS, incluindo:
+Este script automatiza a instalação e configuração de ferramentas de desenvolvimento no Pop!_OS, incluindo:
 
 - Visual Studio Code
 - Git
