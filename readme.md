@@ -15,7 +15,7 @@ Este script automatiza a instalação e configuração de ferramentas essenciais
 Execute o seguinte comando no terminal:
 
 ```bash
-sh -c "$(curl -fsSL https://raw.githubusercontent.com/igopereirag/pop-os-postinstall/main/pop-os-postinstall.sh)"
+sh -c "$(curl -fsSL https://raw.githubusercontent.com/igorpereirag/Pop_os_postinstall/main/pop-os-postinstall.sh)"
 ```
 
 ## O Que o Script Faz
