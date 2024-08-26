@@ -24,7 +24,6 @@ sh -c "$(curl -fsSL https://raw.githubusercontent.com/igorpereirag/Pop_os_postin
 - Verifica a conexão com a Internet
 - Remove travas do `apt`
 - Instala pacotes essenciais via `apt`, `snap` e `flatpak`
-- Baixa e instala o Google Chrome
 - Configura o Docker para uso sem `sudo`
 - Instala SDKMAN para gerenciar múltiplas versões de ferramentas de desenvolvimento
 
